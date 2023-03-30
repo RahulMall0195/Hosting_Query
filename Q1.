@@ -1,0 +1,15 @@
+To deploy a website from GitHub, you can follow the following steps:
+
+1.Create a GitHub repository for your website's source code. Make sure that your source code contains an index.html file or whatever your main HTML file is named.
+
+2.Sign up for a hosting service that supports deploying websites from GitHub repositories. Some popular options include GitHub Pages, Netlify, and Heroku.
+
+3.Connect your hosting service to your GitHub account and select the repository you want to deploy. Depending on the hosting service you choose, you may need to provide additional information such as the branch you want to deploy.
+
+4.Configure your hosting service's settings to ensure that your website is deployed correctly. This may include specifying the domain name or setting up SSL encryption.
+
+5.Push your website's source code to your GitHub repository. This will trigger the deployment process, which may take a few minutes to complete.
+
+6.Once the deployment is complete, you can access your website by visiting the URL provided by your hosting service.
+
+7.That's it! Your website should now be live and accessible to the public. Keep in mind that the specific steps and settings may vary depending on the hosting service you choose, so make sure to consult their documentation for more detailed instructions.
